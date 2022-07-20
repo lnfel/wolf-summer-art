@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://raw.githubusercontent.com/lnfel/wolf-summer-art/main/wolf-summer-hero.png" width="600" alt="WOLF SUMMER">
+</p>
+
+------
+
 ### About
 This repository contains art for Wolf Summer: Haiku.
 
